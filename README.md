@@ -7,4 +7,4 @@ http://rgbcraft.com
 
 Aggiunge numerosi oggetti volti ad aumentare il realismo.
 
-creata dal mitico ed insostituibile *Dio del Java* **Lor54**, supportato per le texture, il debugging e i consigli tecnici dal sommo Grande Fratello **lego11**
+Texture, debugging e consigli tecnici di **lego11**
